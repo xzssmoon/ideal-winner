@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Korgat | Telegram Guarantor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #0a0e1a;
+            color: white;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 500px;
+            margin: 0 auto;
+            background: #111827;
+            border-radius: 24px;
+            padding: 24px;
+            text-align: center;
+        }
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin: 20px 0;
+        }
+        .stat {
+            text-align: center;
+        }
+        .stat-number {
+            font-size: 28px;
+            font-weight: bold;
+            color: #22c55e;
+        }
+        .steps {
+            text-align: left;
+            margin: 20px 0;
+        }
+        .steps li {
+            margin: 10px 0;
+        }
+        .wallet {
+            background: #1f2937;
+            padding: 12px;
+            border-radius: 12px;
+            word-break: break-all;
+            font-family: monospace;
+            margin: 20px 0;
+        }
+        .button {
+            display: inline-block;
+            background: #22c55e;
+            color: white;
+            padding: 12px 24px;
+            text-decoration: none;
+            border-radius: 12px;
+            margin: 10px 0;
+        }
+        hr {
+            border-color: #1f2937;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Korgat | Telegram Guarantor</h1>
+        <p>Безопасность ваших активов — мой главный приоритет</p>
+        
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-number">3.7k+</div>
+                <div>СДЕЛОК</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">100%</div>
+                <div>ВЫПЛАТ</div>
+            </div>
+        </div>
+        
+        <p><strong>КОМИССИЯ — 1%</strong></p>
+        
+        <h3>Как проходят сделки</h3>
+        <ol class="steps">
+            <li>Договариваетесь о сделке</li>
+            <li>Пишете гаранту @korgat</li>
+            <li>Покупатель переводит оплату</li>
+            <li>Продавец передает товар</li>
+            <li>Гарант выплачивает средства</li>
+        </ol>
+        
+        <div class="wallet">
+            <strong>Кошелек USDT (TRC20):</strong><br>
+            UQB7HVHx9vg2MHzL51YUowbBcDVM-mOwy-9RPeFQU3S0gisQ
+        </div>
+        
+        <hr>
+        
+        <h3>Навигация</h3>
+        <a href="https://t.me/korgat_news" class="button">📢 Новостной канал</a><br>
+        <a href="https://t.me/adp_tgkorgat" class="button">🔄 Адаптер</a><br>
+        <a href="https://t.me/korgat" class="button">💬 Личный контакт</a>
+    </div>
+</body>
+</html>
